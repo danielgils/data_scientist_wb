@@ -1,3 +1,6 @@
+*Technical exercise for Extended Term Consultant position*
+*Author: Daniel Gil*
+
 # Part II - How long do World Bank retirees live?
 The first that comes to mind is that having an empirical distribution that is not symmetrical means that the average may not be the best statistic to use because it can be shifted towards extreme or outlier values. It is more appropriate to use a robust statistic like the median, which in this case is likely to be around 84-86, rather than the mean value of 81 years old. 
 
